@@ -1,6 +1,9 @@
 site_name: The Tome Of All Tomes
 site_url: https://the-incipisphere.github.io/The-Tome-Of-All-Tomes/
 
+repo_name: The Tome Of All Tomes
+repo_url: https://github.com/The-Incipisphere/The-Tome-Of-All-Tomes
+
 theme:
   name: material
   favicon: assets/favicon.png
