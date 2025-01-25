@@ -1,6 +1,6 @@
 # How to use Multiblocked2
 
-Multiblocked2 is.. a pretty powerful mod. Hell, some would even call it a ***tool*** rather than a mod.
+Multiblocked2 is.. a pretty powerful mod, to say the least. Hell, some would even call it a ***tool*** rather than a mod.
 
 It allows players to make pretty complex machines, multiblocks and recipes, with built-in compatibility for other major mods like Create, Gregtech Modern, Mekanism, and even Pneumaticcraft: Repressurised.
 
