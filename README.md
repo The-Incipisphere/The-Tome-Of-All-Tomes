@@ -3,4 +3,4 @@
 
 The home for documentation for basically EVERYTHING in this org. To view it how it's meant to be viewed, please visit [here](https://threnodic-agrindustries.github.io/Becs-Big-Book-Of-Docs/)
 
-Big thanks to Squidfunk for the amazing [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) which the docs are built with.
+Big thanks to [Squidfunk](https://github.com/squidfunk) for the amazing [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) which these docs are built with.
