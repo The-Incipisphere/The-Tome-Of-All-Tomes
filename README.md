@@ -3,7 +3,7 @@
 
 The home for documentation for basically EVERYTHING in [this](https://github.com/The-Incipisphere/) org.
 
-To view it how it's meant to be viewed, please visit [here](https://threnodic-agrindustries.github.io/Becs-Big-Book-Of-Docs/)
+To view it how it's meant to be viewed, please visit [here](https://the-incipisphere.github.io/The-Tome-Of-All-Tomes/)
 
 ## On the topic of contributing to these docs
 
