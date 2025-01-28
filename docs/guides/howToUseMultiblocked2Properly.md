@@ -1,5 +1,14 @@
 # How to use Multiblocked2
 
+!!! warning
+    This is a HEAVILY work-in-progress guide! **EVERYTHING HERE IS SUBJECT TO CHANGE!**
+
+!!! note
+    This guide assumes the following constants:
+
+    1. **You have a working installation of Forge for Minecraft 1.20.1 (preferably Version 47.3.0 or above).** If you don't, please download and install it from [Forge's official site](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.20.1.html) or through your launcher of choice.
+    2. **You know how to install mods.** It can be either manually, or through your launcher of choice, but as long as you know how to properly install mods in the environment you're working with, that's all you need to be concerned with.
+
 ## Intro
 
 Multiblocked2 is.. a pretty powerful mod, to say the least. Hell, some would even call it a ***tool*** rather than a mod.
@@ -9,12 +18,6 @@ It allows players to make pretty complex machines, multiblocks and recipes, with
 That being said, it has a **STEEP** learning curve, even with KilaBash's tutorial videos. I'm just making this guide to try and help myself and others understand the maddeningly powerful stuff that KilaBash has made.
 
 Okay, intro over, let's get this started.
-
-!!! note
-    From this point on, this guide assumes the following constants:
-
-    1. **You have a working installation of Forge for Minecraft 1.20.1 (preferably Version 47.3.0 or above).** If you don't, please download and install it from [Forge's official site](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.20.1.html) or through your launcher of choice.
-    2. **You know how to install mods.** It can be either manually, or through your launcher of choice, but as long as you know how to properly install mods in the environment you're working with, that's all you need to be concerned with.
 
 ## MBD2 and You
 
